@@ -1,0 +1,1 @@
+# simplicit-odoo-eds
